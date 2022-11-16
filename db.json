@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "fname": "Malkesh",
+      "lname": "Dalia",
+      "email": "malkesh2911@hotmail.com",
+      "phone": "08980247057",
+      "address": "4/468 Ghanchi Street, Begampura,",
+      "birthday": "29/11/1991",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "fname": "Rahul",
+      "lname": "Daliya",
+      "email": "malkesh2911@hotmail.com",
+      "phone": "8980247057",
+      "address": "Surat",
+      "birthday": "29/11/1991",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "fname": "Mehul",
+      "lname": "Mishra",
+      "email": "malkesh2911@hotmail.com",
+      "phone": "8980247057",
+      "address": "Surat",
+      "birthday": "29/11/1991",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "fname": "Malkesh",
+      "lname": "Daliya",
+      "email": "mroxx34@gmail.com",
+      "phone": "000000000000000000",
+      "address": "4/468 Ghanchi Street, Begampura,",
+      "birthday": "29/11/1991",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
